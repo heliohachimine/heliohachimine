@@ -7,4 +7,4 @@
 - 📫 How to reach me: heliohachimine@gmail.com
 
 ### :trophy: Goals to 2020:
-- I want to use image recognition to automate security cameras and notify invasions
+- I want to write more articles to share more knowledge
