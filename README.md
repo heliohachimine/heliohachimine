@@ -1,7 +1,7 @@
 ### :heart: To learn and share knowledge
 ### 👋 Hi there,  I'm a computer engineer 
 
-- 🔭 I’m currently working at Zup Innovation
+- 🔭 I’m currently working at Gira
 - 🌱 I’m currently learning Swift
 - 💬 Ask me about Java, Kotlin, Android
 - 📫 How to reach me: heliohachimine@gmail.com
